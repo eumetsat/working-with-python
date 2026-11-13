@@ -1,0 +1,5 @@
+[submodule "frameworks"]
+	path = frameworks
+	url = https://github.com/eumetsat/frameworks.git
+	shallow = true
+	branch = main
