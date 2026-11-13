@@ -1,0 +1,11 @@
+# Copyright holder
+copyright: Copyright (c) 2026 European Union
+license: LICENSE.txt
+ 
+# List of development authors
+Ben Evers-Loveday (EUMETSAT)
+Hayley Evers-King (EUMETSAT)
+Julia Wagemann (MEEO S.r.l / EUMETSAT)
+
+# Support
+For all queries on this software package, please contact ops@eumetsat.int
