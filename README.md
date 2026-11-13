@@ -1,5 +1,14 @@
 # working-with-python
 
+<hr>
+
+[![Python](https://img.shields.io/badge/python%203.13-anaconda-green)](https://www.anaconda.com/products/distribution)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.txt)
+[![EUMETSAT GitHub](https://img.shields.io/badge/github-eumetsat-blue?logo=github)](https://github.com/eumetsat/working-with-python)
+[![USER PORTAL](https://img.shields.io/badge/open-USER%20PORTAL-154360.svg)](https://user.eumetsat.int/data/themes/marine)
+
+## Overview
+
 This repository contains all tools and notebooks related to helping users to work with python.
 
 ## License
